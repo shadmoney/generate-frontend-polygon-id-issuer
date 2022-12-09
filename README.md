@@ -49,7 +49,7 @@ If you already created a Schema, you can find out a schema's id on the ["Created
 npm run dev
 ````
 
-(Optional) Add and commit any visual changes you want to make.
+(Optional) Add and commit any visual changes you want to make. edit
 
 ## Deploy your site with Vercel
 
